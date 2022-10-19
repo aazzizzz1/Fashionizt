@@ -1,0 +1,2 @@
+String IDUserGlob = "";
+String fittingCategory= "";
